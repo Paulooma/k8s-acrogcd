@@ -16,7 +16,7 @@ spec:
         app: solar-system
     spec:
       containers:
-      - image: ashwinbittu/php-k8s-app:34-4491dd279ba8945b407cd9b9ae8c98298f0e267a
+      - image: ashwinbittu/php-k8s-app:35-89ac64b8eb9bfc96f7ecc427e02114e96c939f1f
         name: solar-system
         ports: 
         - containerPort: 80
